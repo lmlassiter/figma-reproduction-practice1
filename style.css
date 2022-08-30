@@ -55,19 +55,19 @@ body {
 
 
 .body-text {
-position: absolute;
-width: 655px;
-height: 177px;
-left: 94px;
-top: 285px;
+    position: absolute;
+    width: 655px;
+    height: 177px;
+    left: 94px;
+    top: 285px;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 800;
-font-size: 13px;
-line-height: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 16px;
 
-color: #000000;
+    color: #000000;
 }
 
 .sign-up svg {
